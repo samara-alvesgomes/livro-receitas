@@ -2,7 +2,8 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-_*.*_  Strogonoff de Frango
+* Strogonoff de Frango
+* Pavê
 
 
 
